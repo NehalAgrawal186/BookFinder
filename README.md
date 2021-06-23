@@ -17,4 +17,6 @@ app contains some other features as:
 
 ![image](https://user-images.githubusercontent.com/76245548/123131918-c82e5180-d46b-11eb-972f-e3589ef768dc.png)
 ![Screenshot (124)](https://user-images.githubusercontent.com/76245548/123132009-e09e6c00-d46b-11eb-915f-da9fa13f82f5.png)
-
+![image](https://user-images.githubusercontent.com/76245548/123132126-ff046780-d46b-11eb-949d-84f5e7c17950.png)
+![image](https://user-images.githubusercontent.com/76245548/123132156-088dcf80-d46c-11eb-8e36-be99414fa865.png)
+![image](https://user-images.githubusercontent.com/76245548/123132207-180d1880-d46c-11eb-948a-9e3476d691ee.png)
