@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354274090893",
+    "project_id": "bookfinder-fbe3a",
+    "storage_bucket": "bookfinder-fbe3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354274090893:android:aab038bbab75f779b027c4",
+        "android_client_info": {
+          "package_name": "com.nehal.bookfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354274090893-2iddf5b4530uc24qvfrgbkc5blrc0bks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwGBUwM7mjm1VUw6WTFE-RCRqxptCysQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354274090893-2iddf5b4530uc24qvfrgbkc5blrc0bks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
