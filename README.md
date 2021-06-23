@@ -15,3 +15,4 @@ app contains some other features as:
 8.	A “Profile Page” where the user information will be displayed.
 9.	A “Favourite Page” where all the books marked as favourite by the user will be displayed.
 
+![image](https://user-images.githubusercontent.com/76245548/123131918-c82e5180-d46b-11eb-972f-e3589ef768dc.png)
